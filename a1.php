@@ -3,7 +3,9 @@
 
 //test
 
+
 $a = new Object();
+$b = $a;
 
 
 $a['aaa']=>"aaaaaaaaaaaA";
