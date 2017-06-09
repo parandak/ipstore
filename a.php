@@ -1,5 +1,5 @@
 <?php
-
+// aaaaaaaaaaaaaaaaaaaaaa
   require_once '/home/nfs/vendor/autoload.php';
   use PhpAmqpLib\Connection\AMQPStreamConnection;
   use PhpAmqpLib\Message\AMQPMessage;
